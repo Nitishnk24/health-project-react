@@ -1,0 +1,26 @@
+.containers{
+    background-color
+    : 
+    whitesmoke;
+    overflow
+    : 
+    hidden;
+    background: url(../assets/images/bg.jpg);
+    }
+.contact-form{
+    background-color: black;
+    
+    text-decoration-color: rgba(61, 110, 26, 0.795);
+    }
+
+.containerss{
+    background-color:rgba(237, 237, 237, 0.461);
+}
+.panel-body{
+    background: white;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+.container-fluid{
+    background-color: whitesmoke;
+}
