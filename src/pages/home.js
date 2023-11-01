@@ -2,12 +2,14 @@ import React from 'react'
 import "../styles/style.css"
 import { Link } from 'react-router-dom'
 
+//comment
+
 const Home = () => {
   return (
     <div>
             <nav className="navbar navbar-expand-lg navbar-light bg-light">
                 <div className="container">
-                    <a className="navbar-brand">
+                    <a className="navbar-brand"> 
                         <img
                             src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXrjqPIktsc3fI-GjtU03rYp7hPphY3wYZ-L9DPuv_bGRqOQKjtan_DHPYsRuB7cXsLpQ&usqp=CAU"
                             style={{ width: '40px' }}
